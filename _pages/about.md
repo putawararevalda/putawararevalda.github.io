@@ -41,6 +41,6 @@ Presented a paper in The 12th IEEE International Conference on Data Science and 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow 2](https://img.shields.io/badge/TensorFlow_2-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-I am an MSc Data Science Graduate from University of Bristol, United Kingdom. Currently living in Jakarta, 🇮🇩 Indonesia, I am seeking for opportunities both in my home country and overseas. 
+I am a MSc Data Science Graduate from University of Bristol, United Kingdom. Currently living in Jakarta, 🇮🇩 Indonesia, I am seeking for opportunities both in my home country and overseas. 
 
 ---
