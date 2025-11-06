@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MSc in Data Science, University of Bristol, 2024 - 2025
+* BSc in Industrial Engineering, Institut Teknologi Bandung, 2013 - 2017
 
 Work experience
 ======
