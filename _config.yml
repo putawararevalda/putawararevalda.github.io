@@ -23,7 +23,7 @@ repository               : "putawararevalda/putawararevalda.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "personalphoto1.jpg"
   name             : "Revalda Putawara"
   pronouns         : # example: "she/her"  
   bio              : "MSc Data Science graduate from University of Bristol. 1 year experience as a Data Analyst, 3 years experience as a Data Scientist."

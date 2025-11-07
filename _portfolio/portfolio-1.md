@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Twitter Data Topic Modelling and Sentiment Analysis"
+excerpt: "Published work that I co-authored, looking at the public reception to Indonesia's Free Nutritious Meal (MBG) Program. <br/><img src='/images/MBGpreview.jpg'>"
 collection: portfolio
 ---
 
