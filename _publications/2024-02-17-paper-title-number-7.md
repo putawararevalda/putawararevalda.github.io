@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-02-17-paper-title-number-7
 #excerpt: 'This paper is about fixing template issue #693.'
 date: 2021-10-25
-venue: '2021 International Conference on Data Analytics for Business and Industry (ICDABI), Sakheer, Bahrain'
+venue: '2021 IEEE International Conference on Data Analytics for Business and Industry (ICDABI), Sakheer, Bahrain'
 paperurl: 'https://ieeexplore.ieee.org/document/9655790'
 citation: 'M. M. Ulkhaq, A. T. Wibowo, M. R. Tribosnia, <b>R. Putawara</b>, A. B. Firdauz. (2021). &quot;Every Tweet Counts? Sentiment Analysis of Public Response toward Indonesia’s Free Nutritious Meal Program.&quot; <i> 2021 International Conference on Data Analytics for Business and Industry (ICDABI), Sakheer, Bahrain</i>. pp. 42-46.'
 ---
